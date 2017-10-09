@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Urasandesu.Swathe", "Urasandesu.Swathe\Urasandesu.Swathe.vcxproj", "{19F73BCA-BD55-4D66-8F1F-D4CA124B8A22}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Urasandesu.SwathePS", "Urasandesu.Swathe\Urasandesu.SwathePS.vcxproj", "{E77A53EC-A69E-41CA-ACE0-5D83636610C4}"
@@ -22,10 +24,12 @@ Global
 		{19F73BCA-BD55-4D66-8F1F-D4CA124B8A22}.Release|Win32.Build.0 = Release|Win32
 		{E77A53EC-A69E-41CA-ACE0-5D83636610C4}.Debug|Win32.ActiveCfg = Debug|Win32
 		{E77A53EC-A69E-41CA-ACE0-5D83636610C4}.Release|Win32.ActiveCfg = Release|Win32
-		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Debug|Win32.ActiveCfg = Debug|Win32
-		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Debug|Win32.Build.0 = Debug|Win32
-		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Release|Win32.ActiveCfg = Release|Win32
-		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Release|Win32.Build.0 = Release|Win32
+		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Debug|Win32.ActiveCfg = Debug(.NET 4)|Win32
+		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Debug|Win32.Build.0 = Debug(.NET 4)|Win32
+		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Debug|Win32.Deploy.0 = Debug(.NET 4)|Win32
+		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Release|Win32.ActiveCfg = Release(.NET 4)|Win32
+		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Release|Win32.Build.0 = Release(.NET 4)|Win32
+		{C9FA9F79-9AF7-4602-A837-E370312296E8}.Release|Win32.Deploy.0 = Release(.NET 4)|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

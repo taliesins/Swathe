@@ -46,3 +46,5 @@
 *.sdf
 *.unsuccessfulbuild
 *.opensdf
+/packages
+/.vs
